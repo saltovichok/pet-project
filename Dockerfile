@@ -1,2 +1,4 @@
 FROM python:3.9-slim
-CMD ["echo", "Hello from docker in my new branch!"]
+WORKDIR /app
+COPY app.py .
+CMD ["python3", "app.py"]
