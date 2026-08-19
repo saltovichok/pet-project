@@ -1,2 +1,1 @@
-Привет из основной ветки master
-Привет из ветки feature/conflict
+Это изменение из ветки feature/another-conflict
