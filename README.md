@@ -1,1 +1,1 @@
-# My first DevOps project
+Привет из ветки feature/conflict!
